@@ -134,4 +134,4 @@ async def on_member_update(before, after):
 #@client.event
 #async def on_connect():
         
-client.run("NjkxNTI4ODg1MjU0MjI1OTIw.Xn9BkQ.qaBMOTdfzLAotJLt4TXRU8FAkSc")
+client.run("NjkxNTI4ODg1MjU0MjI1OTIw.Xn9Cbw.rA9jeYzMCLJ_FLxoHs7wF1cuPKs")
